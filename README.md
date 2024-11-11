@@ -63,25 +63,25 @@ accuracy
 
 ## Output:
 
-#### result
+#### result:
 ![image](https://github.com/user-attachments/assets/a6bb8afa-362e-47e2-bbbf-15812ac673cc)
 
-#### Data
+#### Data:
 ![image](https://github.com/user-attachments/assets/1ce543ba-391d-4de5-a756-b369040ba665)
 
-#### Head
+#### Head:
 ![image](https://github.com/user-attachments/assets/98e26c90-87d8-4429-9195-57a841d1c694)
 
-#### Info
+#### Info:
 ![image](https://github.com/user-attachments/assets/f6f7483f-59e0-4b43-bce7-fe7fb3b60fa4)
 
-#### Null.sum
+#### Null.sum:
 ![image](https://github.com/user-attachments/assets/14f385d6-bfc2-4fd1-a42f-d0e2ff03fb23)
 
-#### y_pred
+#### y_pred:
 ![image](https://github.com/user-attachments/assets/952d2f03-a113-4fb2-a20d-24646bb5213c)
 
-#### accuracy
+#### accuracy:
 ![image](https://github.com/user-attachments/assets/bcd58ff8-960a-482f-b5b5-47b35926e4e5) 
 
 ## Result:
